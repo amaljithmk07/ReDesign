@@ -536,6 +536,11 @@ span {
 
 /* //////////////responsive Area///////////////// */
 
+@media screen and (max-width: 1440px) {
+  .main-body-title {
+    font-size: 3.5rem;
+  }
+}
 @media screen and (max-width: 1250px) {
   .main-second-body {
     padding: 50px 0;
